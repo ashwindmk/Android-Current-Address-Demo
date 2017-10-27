@@ -18,7 +18,6 @@
         android:id="@+id/addressTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Welcome"
         android:layout_margin="50dp" />
 
 </LinearLayout>
